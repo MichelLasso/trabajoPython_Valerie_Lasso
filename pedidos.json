@@ -93,5 +93,16 @@
             }
         ],
         "estado": "creado"
+    },
+    {
+        "cliente": "val",
+        "items": [
+            {
+                "categoria": "bebidas",
+                "nombre": "cocacola",
+                "cantidad": 1,
+                "precio": 9000
+            }
+        ]
     }
 ]
